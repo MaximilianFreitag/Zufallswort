@@ -1,7 +1,6 @@
 # Generate random german words / Generiere zufällige deutsche Wörter
 
 <br> 
-<br> 
 
 <!-- GETTING STARTED -->
 ## Getting Started
