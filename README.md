@@ -86,8 +86,16 @@ Return 3 random words that are exactly 7 characters long
 <br />
 <br />
 <br />
-<br />
+<!-- Current bugs -->
+## Current bugs
 
+When you import the library you will see three words as an output.
+
+
+<br />
+<br />
+<br />
+<br />
 
 ## Stargazers over time
 
