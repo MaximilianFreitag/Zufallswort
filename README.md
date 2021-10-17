@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://github.com/MaximilianFreitag/Zufallswort">
-        <img src="https://github.com/MaximilianFreitag/Zufallswort/blob/main/gen.jpg">
+        <img src="https://github.com/MaximilianFreitag/Zufallswort/blob/main/image_gen.jpg">
     </a>
 </p>
 
