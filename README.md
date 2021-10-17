@@ -19,29 +19,35 @@
 ## How to use
    
   <br>
+Return one random word
 
-    zufall.zufallswort()
+    zufall.zufallswort(1)
 
-Returns one random word
+
+Return 5 random words 
  
+    zufall.zufallswort(5)
+
+Return 3 random words that start with certain letters 
+
     zufall.anfangsbuchstaben('herum', 3)
 
-Returns 3 random words that start with "herum"
+Returns 3 random words that end with certain letters 
 
+    zufall.anfangsbuchstaben('legen', 3)
 
-    zufall.endbuchstaben('legen', 4)
-
-Returns 4 random words that ends with "legen"
-
-
-    zufall.enthält_buchstaben('ff', 2)
 
 Returns 2 random words that contain the letters "ff"
 
 
+    zufall.enthält_buchstaben('ff', 2)
+
+Return 3 random words that are exactly 7 characters long
+
+
     zufall.anzahl_buchstaben(7, 3)
 
-Returns 3 random words that are exactly 7 characters long
+
 
 
 
