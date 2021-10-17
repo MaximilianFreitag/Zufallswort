@@ -46,7 +46,7 @@ Returns 3 random words that end with certain letters
 Returns 2 random words that contain the letters "ff"
 
 
-    zufall.enthält_buchstaben('ff', 2)
+    zufall.enthaelt_buchstaben('ff', 2)
 
 Return 3 random words that are exactly 7 characters long
 
