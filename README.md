@@ -66,6 +66,12 @@ Return 3 random words that are exactly 7 characters long
 
 
 
+<br />
+<br />
+<br />
+
+## License
+This project falls under the MIT license.
 
 
 
