@@ -62,7 +62,15 @@ Return 3 random words that are exactly 7 characters long
     zufall.anzahl_buchstaben(7, 3)
 
 
+<br />
+<br />
+<br />
+<br />
 
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/MaximilianFreitag/Zufallswort.svg)](https://starchart.cc/MaximilianFreitag/Zufallswort)
 
 
 
