@@ -39,6 +39,7 @@ Return one random word
     
     --> Katze
 
+<br> 
 
 Return 5 random words 
  
@@ -46,11 +47,15 @@ Return 5 random words
     
     --> ['rot', 'Baum', 'Eichhörnchen', 'Brötchen', 'Auto']
 
+<br> 
+
 Return 3 random words that start with certain letters 
 
     zufall.anfangsbuchstaben('herum', 3)
     
     ['herumtragen', 'herumnörgeln', 'Herumtreiber']
+
+<br> 
 
 Returns 3 random words that end with certain letters 
 
@@ -59,12 +64,16 @@ Returns 3 random words that end with certain letters
     --> ['anlegen', 'hinzulegen']
 
 
+<br> 
+
 Returns 2 random words that contain the letters "ff"
 
 
     zufall.enthaelt_buchstaben('ff', 2)
     
     --> ['Schiff', 'Affinität']
+
+<br> 
 
 Return 3 random words that are exactly 7 characters long
 
