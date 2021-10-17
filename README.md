@@ -57,7 +57,7 @@ Return 3 random words that start with certain letters
 
 <br> 
 
-Returns 3 random words that end with certain letters 
+Return 3 random words that end with certain letters 
 
     zufall.endbuchstaben('legen', 2)
     
@@ -66,7 +66,7 @@ Returns 3 random words that end with certain letters
 
 <br> 
 
-Returns 2 random words that contain the letters "ff"
+Return 2 random words that contain the letters "ff"
 
 
     zufall.enthaelt_buchstaben('ff', 2)
