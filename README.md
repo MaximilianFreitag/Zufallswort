@@ -9,8 +9,6 @@
     </a>
 </p>
 
-<br> 
-<br> 
 
 <!-- GETTING STARTED -->
 ## Getting Started
