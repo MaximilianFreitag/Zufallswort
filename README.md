@@ -27,12 +27,12 @@ ________________________________________________________________________________
 <br>
 Return one random word
 
-    zufall.zufallswort(1)
+    zufall.zufallswoerter(1)
 
 
 Return 5 random words 
  
-    zufall.zufallswort(5)
+    zufall.zufallswoerter(5)
 
 Return 3 random words that start with certain letters 
 
