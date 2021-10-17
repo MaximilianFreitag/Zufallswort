@@ -19,11 +19,12 @@
 <br>
 ______________________________________________________________________________________
 <br>  
+ 
    
 <!-- How to use -->
 ## How to use
    
-  <br>
+<br>
 Return one random word
 
     zufall.zufallswort(1)
