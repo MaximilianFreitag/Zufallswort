@@ -1,0 +1,11 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+zufallsworte/__init__.py
+zufallsworte.egg-info/PKG-INFO
+zufallsworte.egg-info/SOURCES.txt
+zufallsworte.egg-info/dependency_links.txt
+zufallsworte.egg-info/not-zip-safe
+zufallsworte.egg-info/top_level.txt
