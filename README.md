@@ -1,6 +1,10 @@
 # Generate random german words / Generiere zufällige deutsche Wörter
 
 <br> 
+![gen](https://user-images.githubusercontent.com/46624616/137640274-7ece5238-76e3-4c7e-8211-75a7188b180f.jpg)
+
+<br> 
+<br> 
 
 <!-- GETTING STARTED -->
 ## Getting Started
