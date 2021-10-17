@@ -90,7 +90,7 @@ Return 3 random words that are exactly 7 characters long
 <!-- Current bugs -->
 ## Current bugs
 
-When you import the library you will see three words as an output.
+When you import the library you will see three words as an output. Just ignore them.
 
 
 <br />
