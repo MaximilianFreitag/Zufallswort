@@ -1,4 +1,4 @@
-# Generate random german words / Generiere zufällige deutsche Wörter
+## Generate random german words / Generiere zufällige deutsche Wörter
 
 <br> 
 
