@@ -1,7 +1,7 @@
 # Generate random german words / Generiere zufällige deutsche Wörter
 
 <br> 
-![img](https://imgur.com/a/38fb5vs)
+![jrCcQGc](https://user-images.githubusercontent.com/46624616/137640296-cf2ca967-081b-4215-9f5d-127003c5c5ed.jpg)
 
 <br> 
 <br> 
