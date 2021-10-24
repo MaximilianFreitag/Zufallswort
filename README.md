@@ -1,7 +1,9 @@
 ## Generate random german words / Generiere zufällige deutsche Wörter
 
+##### Pip install ready german word generator from a 300.000 word dictioanry
+
 <br> 
-#### Pip install ready german word generator from a 300.000 word dictioanry
+
 
 <p align="center">
     <a href="https://github.com/MaximilianFreitag/Zufallswort">
