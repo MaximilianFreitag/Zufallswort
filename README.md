@@ -1,6 +1,6 @@
 ## Generate random german words / Generiere zufällige deutsche Wörter
 
-##### Pip install ready german word generator with a 300.000 word dictioanry. 
+##### Pip install ready german word generator with a 300.000 word dictionary. 
 
 <br> 
 
