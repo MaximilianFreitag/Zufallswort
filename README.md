@@ -21,7 +21,7 @@
    pip install zufallsworte
    ```
 
-2. Install the library with
+2. Import the library with
    ```sh
    import zufallsworte as zufall
    ```
