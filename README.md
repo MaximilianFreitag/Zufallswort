@@ -102,7 +102,6 @@ When you import the library you will see three words as an output. Just ignore t
 
 ## Stargazers over time
 
-
 [![Stargazers over time](https://starchart.cc/MaximilianFreitag/Zufallswort.svg)](https://starchart.cc/MaximilianFreitag/Zufallswort)
 
 
