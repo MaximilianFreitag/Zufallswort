@@ -35,7 +35,7 @@ ________________________________________________________________________________
 ## How to use
    
 <br>
-Return one random word
+Return one random german word
 
     zufall.zufallswoerter(1)
     
@@ -43,7 +43,7 @@ Return one random word
 
 <br> 
 
-Return 5 random words 
+Return 5 random german words 
  
     zufall.zufallswoerter(5)
     
@@ -51,7 +51,7 @@ Return 5 random words
 
 <br> 
 
-Return 3 random words that start with certain letters 
+Return 3 random german words that start with certain letters 
 
     zufall.anfangsbuchstaben('herum', 3)
     
@@ -59,7 +59,7 @@ Return 3 random words that start with certain letters
 
 <br> 
 
-Return 3 random words that end with certain letters 
+Return 3 random german words that end with certain letters 
 
     zufall.endbuchstaben('legen', 2)
     
@@ -68,7 +68,7 @@ Return 3 random words that end with certain letters
 
 <br> 
 
-Return 2 random words that contain the letters "ff"
+Return 2 random german words that contain the letters "ff"
 
 
     zufall.enthaelt_buchstaben('ff', 2)
@@ -77,7 +77,7 @@ Return 2 random words that contain the letters "ff"
 
 <br> 
 
-Return 3 random words that are exactly 7 characters long
+Return 3 random german words that are exactly 7 characters long
 
 
     zufall.anzahl_buchstaben(7, 3)
