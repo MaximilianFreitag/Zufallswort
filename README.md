@@ -91,14 +91,30 @@ Return 3 random german words that are exactly 7 characters long
 <br />
 <br />
 
+__________________________________________________
+
 <!-- Current bugs -->
-## Current bugs
+## Current bugs 🐞
 
 When you import the library you will see three words as an output. Just ignore them.
 
 
-<br />
-<br />
+<br>
+__________________________________________________
+
+
+<br>
+
+### To-Do list: (Things that I want to add as a functionality)
+
+- [ ] Exchange the print() statements of each function with the return keyword
+- [ ] If the maximum of possible words is exceeded make the function not display an error message but just the maximum of possible words. E.g. there not 1000 words with three F in it like in "Schifffahrt". This would lead to an error
+- [ ] add a .yml file so that changes are uploaded automatically to pypi.org
+
+__________________________________________________
+<br>
+
+
 <br />
 <br />
 
