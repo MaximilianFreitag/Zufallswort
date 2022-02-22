@@ -108,7 +108,7 @@ __________________________________________________
 
 <br>
 
-### To-Do list: (Things that I want to add as a functionality)
+### To-Do list: (Things that I want to improve or add as a functionality)
 
 - [ ] Exchange the print() statements of each function with the return keyword
 - [ ] If the maximum of possible words is exceeded make the function not display an error message but just the maximum of possible words. E.g. there not 1000 words with three F in it like in "Schifffahrt". This would lead to an error
