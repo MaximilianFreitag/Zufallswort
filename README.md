@@ -108,16 +108,16 @@ __________________________________________________
 
 <br>
 
-### To-Do list: (Things that I want to improve or add as a functionality)
+### To-Do list: (Things that I want to improve (IMP) or add as a functionality (FUNC) )
 
-- [ ] Exchange the print() statements of each function with the return keyword
-- [ ] If the maximum of possible words is exceeded make the function not display an error message but just the maximum of possible words. E.g. there not 1000 words with three F in it like in "Schifffahrt". This would lead to an error
-- [ ] add a .yml file so that changes are uploaded automatically to pypi.org
-- [ ] Improve the quality of the duden.txt file... some words are kinda non-sense and simply do not exist in the german dictionary
-- [ ] Add a function that only incorporates the 10.000 most popular words
-- [ ] Create a function that only output nouns (Note to myself: nouns = Capital letter in the txt file)
-- [ ] Create a function that only outputs verbs (a bit more trickier than only nouns)
-- [ ] Create a function that only outputs adjectives
+- [ ] Exchange the print() statements of each function with the return keyword ...(IMP)
+- [ ] If the maximum of possible words is exceeded make the function not display an error message but just the maximum of possible words. E.g. there not 1000 words with three F in it like in "Schifffahrt". This would lead to an error ...(IMP)
+- [ ] add a .yml file so that changes are uploaded automatically to pypi.org ...(FUNC)
+- [ ] Improve the quality of the duden.txt file... some words are kinda non-sense and simply do not exist in the german dictionary ...(IMP)
+- [ ] Add a function that only incorporates the 10.000 most popular words ...(FUNC)
+- [ ] Create a function that only output nouns (Note to myself: nouns = Capital letter in the txt file) ...(FUNC)
+- [ ] Create a function that only outputs verbs (a bit more trickier than only nouns) ...(FUNC)
+- [ ] Create a function that only outputs adjectives ...(FUNC)
 
 __________________________________________________
 <br>
