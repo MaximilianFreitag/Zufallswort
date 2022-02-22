@@ -93,6 +93,8 @@ Return 3 random german words that are exactly 7 characters long
 
 __________________________________________________
 
+<br />
+
 <!-- Current bugs -->
 ## Current bugs 🐞
 
