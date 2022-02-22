@@ -113,6 +113,7 @@ __________________________________________________
 - [ ] Exchange the print() statements of each function with the return keyword
 - [ ] If the maximum of possible words is exceeded make the function not display an error message but just the maximum of possible words. E.g. there not 1000 words with three F in it like in "Schifffahrt". This would lead to an error
 - [ ] add a .yml file so that changes are uploaded automatically to pypi.org
+- [ ] Improve the quality of the duden.txt file... some words are kinda non-sense and simply do not exist in the german dictionary
 
 __________________________________________________
 <br>
