@@ -115,9 +115,9 @@ __________________________________________________
 - [ ] add a .yml file so that changes are uploaded automatically to pypi.org
 - [ ] Improve the quality of the duden.txt file... some words are kinda non-sense and simply do not exist in the german dictionary
 - [ ] Add a function that only incorporates the 10.000 most popular words
-- Create a function that only output nouns (Note to myself: nouns = Capital letter in the txt file)
-- Create a function that only outputs verbs (a bit more trickier than only nouns)
-- Create a function that only outputs adjectives
+- [ ] Create a function that only output nouns (Note to myself: nouns = Capital letter in the txt file)
+- [ ] Create a function that only outputs verbs (a bit more trickier than only nouns)
+- [ ] Create a function that only outputs adjectives
 
 __________________________________________________
 <br>
