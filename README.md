@@ -98,7 +98,7 @@ __________________________________________________
 <!-- Current bugs -->
 ## Current bugs 🐞
 
-When you import the library you will see three words as an output. Just ignore them.
+When you import the library you will see three words as an output. Just ignore them. (FIXED)
 
 
 <br>
@@ -110,9 +110,9 @@ __________________________________________________
 
 ### To-Do list: (Things that I want to improve or add as a functionality)
 
-- [ ] Exchange the print() statements of each function with the return keyword
+- [x] Exchange the print() statements of each function with the return keyword
 - [ ] If the maximum of possible words is exceeded make the function not display an error message but just the maximum of possible words. E.g. there not 1000 words with three F in it like in "Schifffahrt". This would lead to an error 
-- [ ] add a .yml file so that changes are uploaded automatically to pypi.org 
+- [x] add a .yml file so that changes are uploaded automatically to pypi.org 
 - [ ] Improve the quality of the duden.txt file... some words are kinda non-sense and simply do not exist in the german dictionary 
 - [ ] Add a function that only incorporates the 10.000 most popular words 
 - [ ] Create a function that only output nouns (Note to myself: nouns = Capital letter in the txt file) 
