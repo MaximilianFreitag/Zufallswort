@@ -98,7 +98,7 @@ __________________________________________________
 <!-- Current bugs -->
 ## Current bugs 🐞
 
-When you import the library you will see three words as an output. Just ignore them. (FIXED)
+(FIXED) - When you import the library you will see three words as an output. Just ignore them. 
 
 
 <br>
