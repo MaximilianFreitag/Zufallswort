@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='zufallsworte',
-    version='0.0.4',
+    version='0.0.5',
     description='Generates random german words',
 	url='https://github.com/MaximilianFreitag/Zufallswort',
 	author='Maximilian Freitag',
