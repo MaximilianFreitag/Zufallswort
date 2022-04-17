@@ -35,5 +35,5 @@ jobs:
           python3 setup.py sdist bdist_wheel
           python3 -m twine upload dist/*
         env:
-          TWINE_USERNAME: ${{ secrets.PYPI_USERNAME }}
-          TWINE_PASSWORD: ${{ secrets.PYPI_PASSWORD }}
+          TWINE_USERNAME: ${{ secrets.USERNAME }}
+          TWINE_PASSWORD: ${{ secrets.PASSWORD }}
