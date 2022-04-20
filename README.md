@@ -91,6 +91,22 @@ Return 3 random german words that are exactly 7 characters long
 <br />
 <br />
 
+
+__________________________________________________
+
+<br />
+
+<!-- Current bugs -->
+## Supported versions of Python 🐍
+
+Python 3
+
+
+<br>
+
+
+
+
 __________________________________________________
 
 <br />
@@ -98,8 +114,7 @@ __________________________________________________
 <!-- Current bugs -->
 ## Current bugs 🐞
 
-(FIXED) - When you import the library you will see three words as an output. Just ignore them. 
-
+None
 
 <br>
 
@@ -120,6 +135,9 @@ __________________________________________________
 - [ ] Create a function that only outputs adjectives 
 - [ ] Add docstrings with a description of the function at the beginning of each function, if the user types in print(function_name.__doc__) the description/explanation will be displayed 
 
+- [ ] Add a function to output postive or negative words (sentiment analysis)
+
+- Create a separate API with FastAPI for this library
 
 
 __________________________________________________
