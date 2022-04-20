@@ -135,9 +135,9 @@ __________________________________________________
 - [ ] Create a function that only outputs adjectives 
 - [ ] Add docstrings with a description of the function at the beginning of each function, if the user types in print(function_name.__doc__) the description/explanation will be displayed 
 
+(Advanced)
 - [ ] Add a function to output postive or negative words (sentiment analysis)
-
-- Create a separate API with FastAPI for this library
+- [ ] Create a separate API with FastAPI for this library
 
 
 __________________________________________________
