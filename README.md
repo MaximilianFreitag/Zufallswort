@@ -157,7 +157,7 @@ __________________________________________________
 
 <br />
 <br />
-#Generator #Pip install #deutsch #zufällig #Wörter #duden 
+#Generator #deutsch #zufällig #Wörter #duden #wortliste #txt #Pipinstall #python #python3  
 <br />
 <br />
 
