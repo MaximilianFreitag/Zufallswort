@@ -99,7 +99,7 @@ __________________________________________________
 <!-- Current bugs -->
 ## Supported versions of Python 🐍
 
-Python 3
+Python 3+
 
 
 <br>
