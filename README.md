@@ -4,6 +4,8 @@
 
 Try it out in google colabs within your browser --> https://colab.research.google.com/drive/1VbDH18OBfME5m_4oTxMlwDjyW1zbZVxZ?usp=sharing
 
+API --> https://zufallsworte.herokuapp.com/redoc
+
 <br> 
 
 
