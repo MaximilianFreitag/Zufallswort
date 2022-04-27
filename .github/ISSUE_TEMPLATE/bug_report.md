@@ -1,9 +1,9 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a report to help me improve the repo
 title: ""
 labels: bug, needs triage
-assignees: trufflesecurity/product-eng
+assignees: MaximilianFreitag/Zufallswort
 ---
 
 ### Community Note
