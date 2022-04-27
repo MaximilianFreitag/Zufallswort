@@ -5,6 +5,7 @@
 Try it out in google colabs within your browser --> https://colab.research.google.com/drive/1VbDH18OBfME5m_4oTxMlwDjyW1zbZVxZ?usp=sharing
 
 The according API for the python module with JSON output--> https://zufallsworte.herokuapp.com/
+
 (Give it some time to load and if it fails try visit the URL again)
 
 <br> 
